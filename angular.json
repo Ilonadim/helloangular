@@ -77,7 +77,6 @@
           "options": {
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.spec.json",
-            "aot": true,
             "assets": [
               "src/favicon.ico",
               "src/assets"
